@@ -1,0 +1,8 @@
+{
+  "name":"Půjčovna nářadí",
+  "short_name":"Půjčovna",
+  "display":"standalone",
+  "start_url":"./",
+  "background_color":"#ffffff",
+  "theme_color":"#1976d2"
+}

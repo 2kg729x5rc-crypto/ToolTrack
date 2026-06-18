@@ -1,0 +1,44 @@
+{
+  "loans": [
+    {
+      "record_id": "2cc32a125e3b4227be581eb170d3094c",
+      "tool_id": "262356",
+      "tool_name": "Akumulátorová úhlová bruska AG 4S-22",
+      "employee": "Michal Odvarka",
+      "borrowed_at": "2026-06-14T05:35:48",
+      "returned_at": "2026-06-14T05:36:41"
+    },
+    {
+      "record_id": "c102f3171f3e491a8879566eca9ca071",
+      "tool_id": "2523311577",
+      "tool_name": "C 6-22 vysokorychlostní nabíječka Nuron",
+      "employee": "Daniel Oral",
+      "borrowed_at": "2026-06-14T05:37:20",
+      "returned_at": "2026-06-14T06:08:26"
+    },
+    {
+      "record_id": "d267358f049441a19ddbd245a3b93328",
+      "tool_id": "315259046",
+      "tool_name": "Akumulátorový datový modul CDM-22",
+      "employee": "Patrik Magušin",
+      "borrowed_at": "2026-06-14T05:37:24",
+      "returned_at": ""
+    },
+    {
+      "record_id": "bb32812f0f5240f3a2084cee719739b3",
+      "tool_id": "2538000783",
+      "tool_name": "E DRS 4/6 Systém odsávání prachu",
+      "employee": "Ondřej Geletič",
+      "borrowed_at": "2026-06-14T05:37:27",
+      "returned_at": ""
+    },
+    {
+      "record_id": "5740a75bd973456badaf5939161ea021",
+      "tool_id": "262356",
+      "tool_name": "Akumulátorová úhlová bruska AG 4S-22",
+      "employee": "Michal Odvarka",
+      "borrowed_at": "2026-06-18T01:25:42",
+      "returned_at": ""
+    }
+  ]
+}
